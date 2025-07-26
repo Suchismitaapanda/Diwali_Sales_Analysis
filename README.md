@@ -48,7 +48,7 @@ Practical experience with real-world data cleaning and preprocessing
 
 Performing EDA to draw business-relevant insights
 
-Creating visualizations to support data-driven decisions
+Creating visualizations to support data-driven decisions.
 
 
 
