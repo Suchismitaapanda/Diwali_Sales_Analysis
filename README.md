@@ -1,4 +1,4 @@
-🪔 Diwali Sales Analysis – Data Cleaning & Exploratory Data Analysis with Python
+🪔 Diwali Sales Analysis – Data Cleaning & Exploratory Data Analysis with Python.
 
 This project presents an insightful analysis of Diwali sales data using Python and key data science libraries. 
 The goal is to uncover meaningful patterns in customer behavior during the Diwali festive season and to highlight which demographics and product categories contribute most to sales.
